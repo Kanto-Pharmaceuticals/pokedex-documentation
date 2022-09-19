@@ -4,4 +4,4 @@ The Documentation for the Pokédex uses a Jamstack approach in contrast to the A
 
 ## Important
 
-This repository was created as submodule of the [Pokedex](https://github.com/Kanto-Pharmaceuticals/pokedex) with the intention of re-using it's code for scaffolding other projects.
+This repository was created as submodule of the [Pokedex](https://github.com/Kanto-Pharmaceuticals/pokedex) with the intention of re-using it's code for scaffolding other projects. It is important to use `git` in CLI in order to avoid breaking pointer references.
