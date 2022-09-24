@@ -1,0 +1,68 @@
+.cm-s-obsidian .cm-header-1 {
+  line-height: 1.231em;
+  display: inline-block;
+  letter-spacing: -0.01em;
+}
+.cm-s-obsidian .cm-header-2 {
+  line-height: 1.548em;
+  display: inline-block;
+  letter-spacing: -0.01em;
+}
+.cm-s-obsidian .cm-header-3 {
+  line-height: 1.92em;
+  display: inline-block;
+  letter-spacing: -0.01em;
+}
+.cm-s-obsidian .cm-header-4 {
+  line-height: 1.333em;
+  display: inline-block;
+  letter-spacing: -0.01em;
+}
+.cm-s-obsidian .cm-header-5 {
+  line-height: 1.5em;
+  display: inline-block;
+  letter-spacing: -0.01em;
+}
+.cm-s-obsidian .cm-header-6 {
+  line-height: 1.5em;
+  display: inline-block;
+  letter-spacing: -0.01em;
+}
+.mod-cm6 .cm-editor .HyperMD-header-1,
+.mod-cm6 .cm-editor .HyperMD-header-2,
+.mod-cm6 .cm-editor .HyperMD-header-3,
+.mod-cm6 .cm-editor .HyperMD-header-4,
+.mod-cm6 .cm-editor .HyperMD-header-5,
+.mod-cm6 .cm-editor .HyperMD-header-6 {
+  padding: 0;
+}
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin-block-start: 1.5rem;
+  margin-block-end: 1.5rem;
+}
+
+.markdown-source-view.mod-cm6 .cm-scroller {
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.cm-editor .cm-content {
+  padding-top: 1.5rem;
+}
+.cm-s-obsidian .HyperMD-header {
+  line-height: 1.5rem;
+}
+.cm-s-obsidian span.cm-inline-code,
+.markdown-rendered code {
+  border-radius: 4px;
+  padding: 0 4px;
+}
+.cm-s-obsidian
+  span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+  padding: 0 !important;
+}

@@ -1,0 +1,9 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "tabSize": 2,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./"
+}

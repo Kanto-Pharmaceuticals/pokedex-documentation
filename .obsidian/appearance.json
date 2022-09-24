@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "translucency": true,
+  "cssTheme": "Minimal",
+  "textFontFamily": "Sofia Pro",
+  "monospaceFontFamily": "Apercu Mono Pro",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "style"
+  ]
+}

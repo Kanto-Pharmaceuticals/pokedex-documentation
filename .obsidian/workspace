@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "d38435df0df9c4a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef5f21d73bd21a21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stacks & Services/MongoDB Schema and Setup.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc402c4f540af1c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "20de7c2eaf81cd07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd17c7663048fee9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f3a2db256578f46",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "daba384aa441ec38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "0fb19651eb937187",
+    "type": "split",
+    "children": [
+      {
+        "id": "56b6323b4b68cc8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65cf9f5519e22fa4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stacks & Services/MongoDB Schema and Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b26ee83e542d283d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stacks & Services/MongoDB Schema and Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3adb0a27596a8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73c16b27864389b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stacks & Services/MongoDB Schema and Setup.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 191.5,
+    "collapsed": true
+  },
+  "active": "ef5f21d73bd21a21",
+  "lastOpenFiles": [
+    "README.md",
+    "Stacks & Services/MongoDB Schema and Setup.md",
+    "Design System/Light Cornflower Blue Palette.svg",
+    "Design System/Base Palette.md",
+    "Design System/Type Palette.md",
+    "Design System/Black Coral Palette.svg",
+    "Design System/Introduction.md",
+    "Backend/Untitled Diagram.svg",
+    "Untitled ![[Backend/Untitled Diagram.svg.md",
+    "Untitled Diagram.svg"
+  ]
+}
